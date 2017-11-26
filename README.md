@@ -5,3 +5,5 @@
 * [sample code](https://github.com/igul222/improved_wgan_training/blob/master/gan_toy.py)
 ## tensorflow
 * [variable scope](http://www.jianshu.com/p/ab0d38725f88)
+## augmentation
+* [imaug](https://github.com/aleju/imgaug)
