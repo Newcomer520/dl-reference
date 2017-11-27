@@ -7,3 +7,5 @@
 * [variable scope](http://www.jianshu.com/p/ab0d38725f88)
 ## augmentation
 * [imaug](https://github.com/aleju/imgaug)
+## word2vec
+[structured data document](
