@@ -8,4 +8,4 @@
 ## augmentation
 * [imaug](https://github.com/aleju/imgaug)
 ## word2vec
-[structured data document](https://towardsdatascience.com/structured-deep-learning-b8ca4138b848)
+* [structured data document](https://towardsdatascience.com/structured-deep-learning-b8ca4138b848)
