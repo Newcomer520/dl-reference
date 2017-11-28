@@ -10,4 +10,4 @@
 * [imaug](https://github.com/aleju/imgaug)
 ## word2vec
 * [structured data document](https://towardsdatascience.com/structured-deep-learning-b8ca4138b848)
-*[lda doc](https://towardsdatascience.com/lda2vec-word-embeddings-in-topic-models-4ee3fc4b2843)
+* [lda doc](https://towardsdatascience.com/lda2vec-word-embeddings-in-topic-models-4ee3fc4b2843)
