@@ -14,3 +14,5 @@
 * [lda doc](https://towardsdatascience.com/lda2vec-word-embeddings-in-topic-models-4ee3fc4b2843)
 ## capsulenet
 * [youtube intro](https://m.youtube.com/watch?utm_content=buffer4e1ee&v=pPN8d0E3900&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+# dl learning resource
+* [goodfellow youtube](https://m.youtube.com/playlist?list=PLkISDyMVw2Htm42P0eTVEKyz7scxZ4V-O)
