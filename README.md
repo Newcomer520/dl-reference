@@ -5,6 +5,7 @@
 * [sample code](https://github.com/igul222/improved_wgan_training/blob/master/gan_toy.py)
 * [stargan](https://arxiv.org/pdf/1711.09020.pdf#page9)
 * [cramer gan](https://arxiv.org/pdf/1705.10743.pdf)
+* [nvidia gan](https://arxiv.org/pdf/1710.10196.pdf)
 ## tensorflow
 * [variable scope](http://www.jianshu.com/p/ab0d38725f88)
 ## augmentation
