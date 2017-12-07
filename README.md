@@ -18,5 +18,6 @@
 * [doc intro](https://towardsdatascience.com/demystifying-matrix-capsules-with-em-routing-part-1-overview-2126133a8457)
 # dl learning resource
 * [goodfellow youtube](https://m.youtube.com/playlist?list=PLkISDyMVw2Htm42P0eTVEKyz7scxZ4V-O)
+* [many](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
 # deep reinforcement learning
 * [atari paper](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
