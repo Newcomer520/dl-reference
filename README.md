@@ -21,3 +21,5 @@
 * [many](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
 # deep reinforcement learning
 * [atari paper](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
+# utility
+* [tsne](https://buzzrobot.com/using-t-sne-to-visualise-how-your-deep-model-thinks-4ba6da0c63a0)
