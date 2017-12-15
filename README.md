@@ -8,6 +8,7 @@
 * [nvidia gan](https://arxiv.org/pdf/1710.10196.pdf)
 ## tensorflow
 * [variable scope](http://www.jianshu.com/p/ab0d38725f88)
+* [import images in tf.train.batch](https://stackoverflow.com/questions/37340129/tensorflow-training-on-my-own-image)
 ## augmentation
 * [imaug](https://github.com/aleju/imgaug)
 ## word2vec
