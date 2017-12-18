@@ -9,6 +9,7 @@
 ## tensorflow
 * [variable scope](http://www.jianshu.com/p/ab0d38725f88)
 * [import images in tf.train.batch](https://stackoverflow.com/questions/37340129/tensorflow-training-on-my-own-image)
+* [graphs for training/testing dataset](https://medium.com/@ywchen88/tensorflow-dataset-api-graph-30807178cfa0)
 ## augmentation
 * [imaug](https://github.com/aleju/imgaug)
 ## word2vec
