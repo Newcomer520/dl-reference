@@ -26,3 +26,5 @@
 * [atari paper](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
 # utility
 * [tsne](https://buzzrobot.com/using-t-sne-to-visualise-how-your-deep-model-thinks-4ba6da0c63a0)
+## pedestrian detection
+* [standford](https://web.stanford.edu/class/cs231a/prev_projects_2016/pedestrian-detection-tracking.pdf)
