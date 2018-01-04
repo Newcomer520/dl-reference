@@ -29,3 +29,6 @@
 ## pedestrian detection
 * [standford](https://web.stanford.edu/class/cs231a/prev_projects_2016/pedestrian-detection-tracking.pdf)
 * [【论文笔记】In Defense of the Triplet Loss for Person Re-Identification](http://blog.csdn.net/qq_21190081/article/details/78417215)
+
+## others
+* [best 2017](https://www.reddit.com/r/MachineLearning/comments/7nrzhn/d_results_from_best_of_machine_learning_2017/)
