@@ -34,3 +34,4 @@
 
 ## others
 * [best 2017](https://www.reddit.com/r/MachineLearning/comments/7nrzhn/d_results_from_best_of_machine_learning_2017/)
+* [alpha zero and keras](https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188)
