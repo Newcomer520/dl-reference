@@ -1,0 +1,13 @@
+[Unit]
+Description=Wistron VPN
+
+[Service]
+Type=simple
+EnvironmentFile=/etc/openconnect/passwd
+ExecStart=/bin/bash -c "/usr/sbin/openconnect -u 10403318 --no-cert-check --pid-file=/run/myvpn.pid --juniper whqvpn.wistron.com --reconnect-timeout=86300 <<< $password"
+RestartSec=10
+Restart=on-failure
+
+
+[Install]
+WantedBy=multi-user.target
