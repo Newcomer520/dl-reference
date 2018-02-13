@@ -3,3 +3,4 @@
 * [openconnect service](http://gaijin-nippon.blogspot.tw/2013/01/systemd-unit-file-for-openconnect.html)
 * [chrome webapp icon](https://askubuntu.com/questions/122397/how-to-change-icon-of-an-webapp-created-with-chromium)
 * appeditor: edit the incorrect icon of line of chrome app
+* [pidgin-sipe desktop sharing](https://github.com/tieto/sipe/issues/166#issuecomment-351764552)
