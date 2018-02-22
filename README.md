@@ -6,6 +6,7 @@
 * [stargan](https://arxiv.org/pdf/1711.09020.pdf#page9)
 * [cramer gan](https://arxiv.org/pdf/1705.10743.pdf)
 * [nvidia gan](https://arxiv.org/pdf/1710.10196.pdf)
+* [EFFICIENT GAN-BASED ANOMALY DETECTION](https://arxiv.org/pdf/1802.06222.pdf)
 ## tensorflow
 * [variable scope](http://www.jianshu.com/p/ab0d38725f88)
 * [import images in tf.train.batch](https://stackoverflow.com/questions/37340129/tensorflow-training-on-my-own-image)
