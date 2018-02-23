@@ -4,3 +4,4 @@
 * [chrome webapp icon](https://askubuntu.com/questions/122397/how-to-change-icon-of-an-webapp-created-with-chromium)
 * appeditor: edit the incorrect icon of line of chrome app
 * [pidgin-sipe desktop sharing](https://github.com/tieto/sipe/issues/166#issuecomment-351764552)
+* 輸入法在pidgin無法使用: sudo apt install fcitx-frontend-gtk3
