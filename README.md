@@ -13,6 +13,7 @@
 * [import images in tf.train.batch](https://stackoverflow.com/questions/37340129/tensorflow-training-on-my-own-image)
 * [graphs for training/testing dataset](https://medium.com/@ywchen88/tensorflow-dataset-api-graph-30807178cfa0)
 * [freeze partial variables](https://stackoverflow.com/questions/35298326/freeze-some-variables-scopes-in-tensorflow-stop-gradient-vs-passing-variables)
+* [ema, exponential moving average](http://ruishu.io/2017/11/22/ema/)
 * [name_scope vs variable_scope](https://stackoverflow.com/a/37534656)
 ## augmentation
 * [imaug](https://github.com/aleju/imgaug)
