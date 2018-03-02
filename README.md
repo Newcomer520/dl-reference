@@ -8,6 +8,7 @@
 * [nvidia gan](https://arxiv.org/pdf/1710.10196.pdf)
 * [EFFICIENT GAN-BASED ANOMALY DETECTION](https://arxiv.org/pdf/1802.06222.pdf)
 * [ADVERSARIAL FEATURE LEARNING](https://arxiv.org/pdf/1605.09782.pdf)
+
 ## tensorflow
 * [variable scope](http://www.jianshu.com/p/ab0d38725f88)
 * [import images in tf.train.batch](https://stackoverflow.com/questions/37340129/tensorflow-training-on-my-own-image)
@@ -15,6 +16,8 @@
 * [freeze partial variables](https://stackoverflow.com/questions/35298326/freeze-some-variables-scopes-in-tensorflow-stop-gradient-vs-passing-variables)
 * [ema, exponential moving average](http://ruishu.io/2017/11/22/ema/)
 * [name_scope vs variable_scope](https://stackoverflow.com/a/37534656)
+* [saved model](http://stackabuse.com/tensorflow-save-and-restore-models/)
+
 ## augmentation
 * [imaug](https://github.com/aleju/imgaug)
 ## word2vec
