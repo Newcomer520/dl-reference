@@ -17,7 +17,7 @@
 * [ema, exponential moving average](http://ruishu.io/2017/11/22/ema/)
 * [name_scope vs variable_scope](https://stackoverflow.com/a/37534656)
 * [saved model](http://stackabuse.com/tensorflow-save-and-restore-models/)
-* [use training/validation dataset in the training phase] (https://stackoverflow.com/questions/47356764/how-to-use-tensorflow-dataset-api-with-training-and-validation-sets)
+* [use training/validation dataset in the training phase](https://stackoverflow.com/questions/47356764/how-to-use-tensorflow-dataset-api-with-training-and-validation-sets)
 
 ## augmentation
 * [imaug](https://github.com/aleju/imgaug)
