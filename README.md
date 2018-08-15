@@ -27,6 +27,7 @@ python -m tensorflow.python.tools.freeze_graph \
 --input_binary True \
 --output_graph ./frozen_graph.pb
 ```
+* [training on multi gpus](https://github.com/vahidk/EffectiveTensorflow#multi_gpu)
 
 ## augmentation
 * [imaug](https://github.com/aleju/imgaug)
