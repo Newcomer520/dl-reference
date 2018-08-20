@@ -28,6 +28,7 @@ python -m tensorflow.python.tools.freeze_graph \
 --output_graph ./frozen_graph.pb
 ```
 * [training on multi gpus](https://github.com/vahidk/EffectiveTensorflow#multi_gpu)
+* [restore different names of variables](https://stackoverflow.com/a/41642426)
 
 ## augmentation
 * [imaug](https://github.com/aleju/imgaug)
