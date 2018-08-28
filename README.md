@@ -54,3 +54,7 @@ python -m tensorflow.python.tools.freeze_graph \
 ## others
 * [best 2017](https://www.reddit.com/r/MachineLearning/comments/7nrzhn/d_results_from_best_of_machine_learning_2017/)
 * [alpha zero and keras](https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188)
+
+## decision tree
+[ID3](https://sefiks.com/2017/11/20/a-step-by-step-id3-decision-tree-example/)
+[c4.5](https://sefiks.com/2018/05/13/a-step-by-step-c4-5-decision-tree-example/)
